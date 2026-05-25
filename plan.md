@@ -2,7 +2,7 @@
 
 ## Context
 
-Brandon is building an example project to help people (and himself) learn the [Grain](https://github.com/ObneyAI/grain) event-sourcing framework for Clojure. The project will live in `/Users/brandon/development/grain-issue-tracker` (currently empty).
+Brandon is building an example project to help people (and himself) learn the [Grain](https://github.com/ObneyAI/grain) event-sourcing framework for Clojure. The project will live in `/Users/brandon/development/grain-example-issue-tracker` (currently empty).
 
 Brandon is new to Grain and wants to **understand it deeply**, so he will write the code himself. Claude's role is **tutor**, not implementer: explain concepts, answer questions, review code, point to docs, unblock — do *not* generate the project's Grain code unless explicitly asked for a specific snippet.
 
