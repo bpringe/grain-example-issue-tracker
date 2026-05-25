@@ -1,0 +1,4 @@
+{:deps {obneyai/grain-core-v2
+        {:git/url "https://github.com/ObneyAI/grain.git"
+         :git/sha "9ed2ab04f70f62b115ca237f77673f55cd3f672d"
+         :deps/root "projects/grain-core-v2"}}}

@@ -1,0 +1,28 @@
+# Clojure / deps.edn
+.cpcache/
+.clj-kondo/.cache/
+.lsp/.cache/
+pom.xml
+pom.xml.asc
+*.jar
+target/
+classes/
+
+# REPL / nREPL
+.nrepl-port
+.nrepl-history
+
+# Editors
+.idea/
+*.iml
+.vscode/
+.calva/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local env / secrets
+.env
+.env.local
+*.local.edn
